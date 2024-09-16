@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chitrakshi015
 - 👀 I’m interested in creating ai models and tools
-- 🌱 I’m currently learning programming languages like C and C++ and using some hardware components like Ardiuno uno
+- 🌱 I’m currently learning programming languages like python and C++. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: She
